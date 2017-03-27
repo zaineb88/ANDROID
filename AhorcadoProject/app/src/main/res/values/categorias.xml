@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Each position of id refers to an string array -->
+    <array name="array_categorias">
+        <item></item>
+        <item>@array/animales</item>
+        <item>@array/deportes</item>
+        <item>@array/eñe_palabras</item>
+        <item>@array/famosos</item>
+        <item>@array/fruta</item>
+        <item>@array/lugares</item>
+        <item>@array/peliculas</item>
+
+    </array>
+
+    <string-array name="categorias">
+        <item>Selecciona una categoria</item>
+        <item>Animales</item>
+        <item>Deportes</item>
+        <item>Eñe palabras</item>
+        <item>Famosos</item>
+        <item>Frutas</item>
+        <item>Lugares</item>
+        <item>Peliculas</item>
+
+    </string-array>
+    <string-array name="animales">
+        <item>ciervo almizclero</item>
+        <item>estrella de mar</item>
+        <item>ornitorrinco</item>
+        <item>rinoceronte</item>
+        <item>puercoespin</item>
+        <item>salamadra</item>
+        <item>leopardo</item>
+        <item>facoquero</item>
+        <item>suricato</item>
+        <item>okapi</item>
+
+    </string-array>
+    <string-array name="deportes">
+        <item>tenis de mesa</item>
+        <item>baloncesto</item>
+        <item>waterpolo</item>
+        <item>badminton</item>
+        <item>lacrosse</item>
+        <item>atletismo</item>
+        <item>curling</item>
+        <item>sky</item>
+        <item>golf</item>
+        <item>futbol</item>
+
+    </string-array>
+    <string-array name="eñe_palabras">
+        <item>añejo</item>
+        <item>amañado</item>
+        <item>señuelo</item>
+        <item>musaraña</item>
+        <item>migraña</item>
+        <item>guadaña</item>
+        <item>campaña</item>
+        <item>ponzoña</item>
+        <item>estaño</item>
+        <item>contraseña</item>
+
+    </string-array>
+    <string-array name="famosos">
+        <item>justin bieber</item>
+        <item>matt damon</item>
+        <item>dwayne johnson</item>
+        <item>asthon kutcher</item>
+        <item>justin timberlake</item>
+        <item>Arnold Schwarzenegger</item>
+        <item>russel crowe</item>
+        <item>wynona ryder</item>
+        <item>leonardo dicaprio</item>
+        <item>george clooney</item>
+
+    </string-array>
+    <string-array name="fruta">
+        <item>fruta de la pasion</item>
+        <item>mano de buda</item>
+        <item>albaricoque</item>
+        <item>chirimoya</item>
+        <item>mango</item>
+        <item>banana</item>
+        <item>granada</item>
+        <item>pomelo</item>
+        <item>nispero</item>
+        <item>higo</item>
+
+
+    </string-array>
+    <string-array name="lugares">
+        <item>republica democratica del congo</item>
+        <item>san vicente y las granadinas</item>
+        <item>san cristobal y las nieves</item>
+        <item>miratos arabes unidos</item>
+        <item>trinidad y tobago</item>
+        <item>antigua y barbuda</item>
+        <item>papua nueva guinea</item>
+        <item>liechtenstein</item>
+        <item>turkmenistan</item>
+        <item>sri lanka</item>
+
+    </string-array>
+    <string-array name="peliculas">
+        <item>star wars el despertar de la fuerza</item>
+        <item>cincuenta sombras de grey</item>
+        <item>abierto hasta el amanecer</item>
+        <item>mambrechito and friends</item>
+        <item>resacon  en las vegas</item>
+        <item>hijos de los hombres</item>
+        <item>el diario de noa</item>
+        <item>brokeback mountain</item>
+        <item>million dollar baby</item>
+        <item>matrix reloaded</item>
+    </string-array>
+
+
+</resources>

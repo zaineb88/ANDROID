@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v23\\action_drawer_item_view.xml",
+        "source": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0\\res\\layout-v23\\action_drawer_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v23\\wearable_drawer_view.xml",
+        "source": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0\\res\\layout-v23\\wearable_drawer_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\res\\merged\\debug\\layout-v23\\action_drawer_peek_view.xml",
+        "source": "C:\\Users\\Administrador\\AndroidStudioProjects\\android-Timer\\Wearable\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\2.0.0\\res\\layout-v23\\action_drawer_peek_view.xml"
+    }
+]

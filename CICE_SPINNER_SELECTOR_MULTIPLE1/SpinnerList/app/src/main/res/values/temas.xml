@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <array name="array_provincia_a_localidades">
+        <item>@array/Nombres_animales</item>
+        <item>@array/Nombres_deportes</item>
+        <item>@array/Nombres_eñepalabras</item>
+        <item>@array/Nombres_famosos</item>
+        <item>@array/Nombres_frutas</item>
+        <item>@array/Nombres_lugares</item>
+        <item>@array/Nombres_pelis</item>
+
+
+    </array>
+
+<string-array name="provincias">
+    <item>Animales</item>
+    <item>Deportes</item>
+    <item>Eñe_palabra</item>
+    <item>Famosos</item>
+    <item>Frutas</item>
+    <item>Logares</item>
+    <item>Pelis</item>
+
+</string-array>
+
+<string-array name="Nombres_animales">
+<item>Abla</item>
+<item>Abrucena</item>
+<item>Adra</item>
+<item>Albánchez</item>
+<item>Alboloduy</item>
+<item>Albox</item>
+<item>Alcolea</item>
+<item>Alcóntar</item>
+<item>Alcudía de Montegaud</item>
+<item>Alhabia</item>
+</string-array>
+
+<string-array name="Nombres_deportes">
+<item>Abla</item>
+<item>Abrucena</item>
+<item>Adra</item>
+<item>Albánchez</item>
+<item>Alboloduy</item>
+<item>Albox</item>
+<item>Alcolea</item>
+<item>Alcóntar</item>
+<item>Alcudía de Montegaud</item>
+<item>Alhabia</item>
+</string-array>
+
+<string-array name="Nombres_eñepalabras">
+<item>Abla</item>
+<item>Abrucena</item>
+<item>Adra</item>
+<item>Albánchez</item>
+<item>Alboloduy</item>
+<item>Albox</item>
+<item>Alcolea</item>
+<item>Alcóntar</item>
+<item>Alcudía de Montegaud</item>
+<item>Alhabia</item>
+</string-array>
+<string-array name="Nombres_famosos">
+<item>Abla</item>
+<item>Abrucena</item>
+<item>Adra</item>
+<item>Albánchez</item>
+<item>Alboloduy</item>
+<item>Albox</item>
+<item>Alcolea</item>
+<item>Alcóntar</item>
+<item>Alcudía de Montegaud</item>
+<item>Alhabia</item>
+</string-array>
+<string-array name="Nombres_frutas">
+<item>Abla</item>
+<item>Abrucena</item>
+<item>Adra</item>
+<item>Albánchez</item>
+<item>Alboloduy</item>
+<item>Albox</item>
+<item>Alcolea</item>
+<item>Alcóntar</item>
+<item>Alcudía de Montegaud</item>
+<item>Alhabia</item>
+</string-array>
+<string-array name="Nombres_lugares">
+    <item>Abla</item>
+    <item>Abrucena</item>
+    <item>Adra</item>
+    <item>Albánchez</item>
+    <item>Alboloduy</item>
+    <item>Albox</item>
+    <item>Alcolea</item>
+    <item>Alcóntar</item>
+    <item>Alcudía de Montegaud</item>
+    <item>Alhabia</item>
+</string-array>
+    <string-array name="Nombres_pelis">
+        <item>Abla</item>
+        <item>Abrucena</item>
+        <item>Adra</item>
+        <item>Albánchez</item>
+        <item>Alboloduy</item>
+        <item>Albox</item>
+        <item>Alcolea</item>
+        <item>Alcóntar</item>
+        <item>Alcudía de Montegaud</item>
+        <item>Alhabia</item>
+    </string-array>
+</resources>
